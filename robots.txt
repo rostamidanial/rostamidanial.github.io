@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rostamidanial.github.io/sitemap.xml
